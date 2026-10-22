@@ -199,8 +199,11 @@
   },
   "active": "d47597372aa2869f",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/སྒྱུ་འཕྲུལ་ཆེན་མོའི་རྒྱུད་ཀྱི་འགྲེལ་པ་དྲན་པ།.md",
     "1-SOURCES/Commentaries/དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་ཕྱོགས་བཅུའི་མུན་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ།.md",
+    "1-SOURCES/Commentaries/སྒྱུ་འཕྲུལ་ཆེན་མོའི་འགྲེལ་པ_གཏུབ་ཟིན།.md",
     "1-SOURCES/Text/རྒྱུད་ཐམས་ཅད་ཀྱི་རྒྱལ་པོ་དཔལ་སྒྱུ་འཕྲུལ་རྩ་བའི་རྒྱུད་གསང་བ་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པ།.md",
+    "1-SOURCES/Commentaries/UT23703_1341_MW23703_1624_bo,sa,zh.txt",
     "1-SOURCES/Commentaries/ཕྱོགས་བཅུའི་མུན་པ་ཐམས་ཅད་རྣམ་པར་སེལ་བ།_གཏུབ་ཟིན།.md",
     "1-SOURCES/Text/གསང་སྙིང་རྩ་རྒྱུད་གཏུབ་ཟིན། (1).md",
     "1-SOURCES/Text/གསང་སྙིང་རྩ་རྒྱུད་གཏུབ་ཟིན།.md",
@@ -217,7 +220,6 @@
     "gemini-scribe",
     "CLAUDE.md",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -232,8 +234,6 @@
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
-    "4-SYSTEM/Skills/glossary-combine/SKILL.md"
+    "4-SYSTEM/Skills/glossary-select/SKILL.md"
   ]
 }
